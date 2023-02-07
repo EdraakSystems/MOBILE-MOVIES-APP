@@ -1,13 +1,15 @@
 
-## Getting Started
+# About:
+"Introducing Movie App, the ultimate platform for movie and TV show enthusiasts. With a focus on user experience, [Movie App offers a vast library of popular and rare movies and TV shows, all easily discoverable through our main categories: trending, recently released, and duration. Keep up with the latest releases by checking out our "Releasing Date" section, and never miss out on a must-watch movie or show again. Our user-friendly interface and customizable profiles make it easy to find your next favorite, and our commitment to privacy and security ensures a worry-free streaming experience. Join [app name] today and dive into a world of endless entertainment."
+
+
+
+
 # To install the dependency:
 yarn install
 
 # To start the project:
 yarn start
-
-# To Run the project on Android Emulator or Externel Android Device:
-yarn android
 
 # To Run the project on IOS Emulator:
 cd ios && pod install
